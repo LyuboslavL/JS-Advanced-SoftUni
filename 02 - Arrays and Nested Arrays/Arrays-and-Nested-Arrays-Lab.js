@@ -1,5 +1,3 @@
-// CTRL + SHIFT + ALT - пише на няколко реда!
-
 function evenPosition(arr) {
     let result = [];
     for (let i = 0; i < arr.length; i += 2) {
