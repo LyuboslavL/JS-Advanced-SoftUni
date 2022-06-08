@@ -5,4 +5,5 @@ This course contains the following:
 - Functions and JSON
 - Arrays and Nested Arrays
 - DOM manipulations and DOM Events
+- Error Handling and Unit Testing
 - Developing a logical thinking
